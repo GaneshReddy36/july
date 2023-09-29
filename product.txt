@@ -1,0 +1,6 @@
+1,TV,98000.0,65inches,LG
+2,TV,198000.0,85inches,Samsung
+3,TV,598000.0,75inches,Sony
+4,Phone,28000,vivo_19,vivo
+5,Phone,65000,qhd,samsung
+6,AC,90000,5star,voltas
